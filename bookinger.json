@@ -1,0 +1,18 @@
+[
+    {
+        "user_id":0,
+        "car_id":1,
+        "start_datetime":"23-09-2020--15:00",
+        "end_datetime":"29-09-2020--15:00",
+        "paid":true,
+        "extra_info":null
+    },
+    {
+        "user_id":1,
+        "car_id":0,
+        "start_datetime":"23-09-2020--15:00",
+        "end_datetime":"29-09-2020--15:00",
+        "paid":false,
+        "extra_info":"Gas tank full at departure, should be turned in with > 90% gas"
+    }
+]
