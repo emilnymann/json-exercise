@@ -1,0 +1,25 @@
+[
+    {
+        "brand": "citroen",
+        "color": "red",
+        "license_number": "BX281943",
+        "age": 5,
+        "issues": [
+            {
+                "title": "headlight",
+                "description": "Left headlight has electrical problems causing it to sometimes lose power"
+            },
+            {
+                "title": "trunk",
+                "description": "The trunk doesn't close properly"
+            }
+        ]
+    },
+    {
+        "brand": "peugeot",
+        "color": "silver",
+        "license_number": "CS814372",
+        "age": 2,
+        "issues": null
+    }
+]
