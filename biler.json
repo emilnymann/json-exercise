@@ -1,5 +1,6 @@
 [
     {
+        "id":0,
         "brand": "citroen",
         "color": "red",
         "license_number": "BX281943",
@@ -16,6 +17,7 @@
         ]
     },
     {
+        "id":1,
         "brand": "peugeot",
         "color": "silver",
         "license_number": "CS814372",
