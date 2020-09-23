@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Frank Frankson",
+        "age": 43,
+        "years_active": 22,
+        "height": 183,
+        "email": "frank@frankson.com",
+        "prior_accidents": [
+            {
+                "date": "12-04-1998",
+                "severity": 3
+            },
+            {
+                "date": "03-11-2009",
+                "severity": 7
+            }
+        ]
+    },
+    {
+        "name": "John Johnson",
+        "age": 21,
+        "years_active": 2,
+        "height": 169,
+        "email": "john@johnson.com",
+        "prior_accidents": [
+            {
+                "date": "05-09-2020",
+                "severity": 1
+            }
+        ]
+    }
+]
